@@ -1,2 +1,2 @@
-# Programming-CPP
+# Diagnostico de Consultorio Médico
 .....
