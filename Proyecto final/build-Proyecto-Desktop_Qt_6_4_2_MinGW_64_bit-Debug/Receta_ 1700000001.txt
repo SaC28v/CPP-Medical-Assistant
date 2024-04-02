@@ -1,0 +1,13 @@
+ - - - - - [Hospital] - - - - - 
+Fecha: 2023/0501
+Nombre del paciente: Pepito Perez
+Diagnostico: Cefalea
+
+ - - - - - Medicacion - - - - - 
+Medicamento: Paracetamol 500 mg
+Cantidad: 9 tabletas
+Indicaciones: Tomar una tableta cada 8 horas por tres dias
+ - - - - - - - - - - - - - - - - 
+
+Nombre del doctor: Emma Villegas
+Cedula: 1000101624

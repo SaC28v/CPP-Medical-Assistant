@@ -1,0 +1,21 @@
+Nombres:	Pepito
+Apellidos:	Perez
+Cedula:		1700000001
+Enfermedad autosomica: N/A
+
+Datos del paciente: 
+- Temperatura:	36.5 °C
+- Altura:	1.8
+- Peso:		80 kg
+
+ - - - - - [Historia Medica] - - - - - 
+
+Fecha: 2023/05/01
+ Sintomatología
+* dolor de cabeza
+* temblores
+ Posibles enfermedades
+
+Fecha: 2023/05/01
+ DIAGNOSTICO
+# Cefalea
